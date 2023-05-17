@@ -1,0 +1,149 @@
+{
+  "id": "1594356",
+  "name": "zytd",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "453880",
+      "name": "多渠道课程服务",
+      "font_class": "duoqudaokechengfuwu",
+      "unicode": "e62a",
+      "unicode_decimal": 58922
+    },
+    {
+      "icon_id": "15512413",
+      "name": "agora_独家标记",
+      "font_class": "agora_dujiabiaoji",
+      "unicode": "e60e",
+      "unicode_decimal": 58894
+    },
+    {
+      "icon_id": "22506104",
+      "name": "u55",
+      "font_class": "u55",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "6309579",
+      "name": "已失效",
+      "font_class": "yishixiao",
+      "unicode": "e6d9",
+      "unicode_decimal": 59097
+    },
+    {
+      "icon_id": "18166102",
+      "name": "立方体组,正方形,应用",
+      "font_class": "components-full",
+      "unicode": "e8b5",
+      "unicode_decimal": 59573
+    },
+    {
+      "icon_id": "689264",
+      "name": "立方体 立体 多面体 方块2",
+      "font_class": "lifangtilitiduomiantifangkuai2",
+      "unicode": "e7fb",
+      "unicode_decimal": 59387
+    },
+    {
+      "icon_id": "1336533",
+      "name": "立方体",
+      "font_class": "icon-lifangti",
+      "unicode": "e619",
+      "unicode_decimal": 58905
+    },
+    {
+      "icon_id": "689263",
+      "name": "立方体 立体 多面体 方块",
+      "font_class": "lifangtilitiduomiantifangkuai",
+      "unicode": "e7fa",
+      "unicode_decimal": 59386
+    },
+    {
+      "icon_id": "1447273",
+      "name": "音频",
+      "font_class": "yinpin",
+      "unicode": "e60d",
+      "unicode_decimal": 58893
+    },
+    {
+      "icon_id": "5387545",
+      "name": "视频",
+      "font_class": "shipin",
+      "unicode": "eafb",
+      "unicode_decimal": 60155
+    },
+    {
+      "icon_id": "18170291",
+      "name": "移动",
+      "font_class": "yidong-full",
+      "unicode": "e99a",
+      "unicode_decimal": 59802
+    },
+    {
+      "icon_id": "18170296",
+      "name": "联通",
+      "font_class": "liantong-full",
+      "unicode": "e99b",
+      "unicode_decimal": 59803
+    },
+    {
+      "icon_id": "18170298",
+      "name": "电信",
+      "font_class": "dianxin-full",
+      "unicode": "e99c",
+      "unicode_decimal": 59804
+    },
+    {
+      "icon_id": "18166093",
+      "name": "立方体,正方形,应用",
+      "font_class": "component-full2",
+      "unicode": "e8b2",
+      "unicode_decimal": 59570
+    },
+    {
+      "icon_id": "18166094",
+      "name": "立方体,正方形,应用",
+      "font_class": "component",
+      "unicode": "e8b3",
+      "unicode_decimal": 59571
+    },
+    {
+      "icon_id": "18166095",
+      "name": "立方体,正方形,应用",
+      "font_class": "component-full",
+      "unicode": "e8b4",
+      "unicode_decimal": 59572
+    },
+    {
+      "icon_id": "5045511",
+      "name": "电视",
+      "font_class": "dianshi",
+      "unicode": "e634",
+      "unicode_decimal": 58932
+    },
+    {
+      "icon_id": "6319092",
+      "name": "手机",
+      "font_class": "shouji",
+      "unicode": "e65f",
+      "unicode_decimal": 58975
+    },
+    {
+      "icon_id": "9670068",
+      "name": "ipad",
+      "font_class": "ipad",
+      "unicode": "e68f",
+      "unicode_decimal": 59023
+    },
+    {
+      "icon_id": "18420719",
+      "name": "电脑",
+      "font_class": "diannao",
+      "unicode": "e63c",
+      "unicode_decimal": 58940
+    }
+  ]
+}
