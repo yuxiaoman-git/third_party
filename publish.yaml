@@ -9,7 +9,7 @@ services:
       service:
         name: serverless-devs-application
       function:
-        name: third-party-s1vb
+        name: third-party-pfvt
         description: Initialize
         runtime: nodejs18.debian10
         memorySize: 128
